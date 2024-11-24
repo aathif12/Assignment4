@@ -6,6 +6,8 @@ Interactive Gameplay: Players click on an image to match it with the displayed n
 Feedback System: Displays "WIN" or "LOSE" based on the player's choice.
 Automatic Refresh: The game automatically resets for the next round after a brief delay.
 Dynamic Image Grid: Displays all animal images dynamically from the database.
+
+
 🚀 Technology Stack
 React: For building the user interface.
 JavaScript: Core logic for randomization and interactivity.
