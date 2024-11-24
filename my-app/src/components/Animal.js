@@ -41,7 +41,7 @@ export default function Animal(props) {
           {props.animal.map((ani) => (
             <img
               className="img"
-              src={require("../assets/fig/" + ani.img)}
+              src={require("../data/fig/" + ani.img)}
               alt="animal"
               onClick={() => {
                 viewResult(ani);
